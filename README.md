@@ -6,7 +6,7 @@ To Simulate Triangular-wave-generator using Op-amp
  Proteus
 
 **PROCEDURE:**
-•
+ Open Proteus and create a new schematic. Place the required components and connect the circuit as per the given circuit diagram. Connect the function generator to provide the sinusoidal input. Connect the oscilloscope to observe the input and output waveforms. Set the op-amp supply to ±12 V. Set the required input amplitude and frequency. Run the simulation. Observe and measure the sine-wave input and square-wave output from the oscilloscope.
  
 
   **CIRCUIT DIAGRAM**
